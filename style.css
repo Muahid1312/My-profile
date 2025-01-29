@@ -8,7 +8,9 @@
 }
 
 body {
-    background: #081b29;
+    
+    
+
     color:#ededed;
 }
 .header {
@@ -47,6 +49,9 @@ body {
 
 .home {
     height:100vh;
+    background: url("Image.jpg") no-repeat;
+    background-size:cover;
+    background-position: center;
     display: flex;
     align-items:center;
     padding:10%;
